@@ -1,3 +1,3 @@
 # Cognify
-The tasks provided by congnify company 
+The tasks provided by cognify company 
 Python Code
