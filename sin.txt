@@ -1,0 +1,5 @@
+• A prototype model to generate electricity using a fan's rotational motion. A 200 RPM gear motor
+converts the turbine's movement into electrical energy, producing up to 16V. This setup demonstrates
+a simple and efficient method of sustainable power generation.• A prototype model to generate electricity using a fan's rotational motion. A 200 RPM gear motor
+converts the turbine's movement into electrical energy, producing up to 16V. This setup demonstrates
+a simple and efficient method of sustainable power generation.
